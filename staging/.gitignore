@@ -1,6 +1,5 @@
 # Ignore .terraform directory
 .terraform/
-staging/.terraform/
 
 # Ignore terraform.tfstate files
 *.tfstate
